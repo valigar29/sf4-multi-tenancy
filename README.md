@@ -21,7 +21,7 @@ bin/console doctrine:fixtures:load --no-interaction
 It will generate such database:
 
 ```
-'1', 'Fist Tenant', 'multitenancy_tenant1', 'root', ''
+'1', 'First Tenant', 'multitenancy_tenant1', 'root', ''
 '2', 'Second Tenant', 'multitenancy_tenant2', 'root', ''
 ```
 
